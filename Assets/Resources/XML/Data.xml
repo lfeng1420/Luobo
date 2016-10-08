@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <monsterlist>
+    <monster id="01">
+      <life>4000</life>
+      <walkspeed>60</walkspeed>
+    </monster>
+    <monster id="02">
+      <life>600</life>
+      <walkspeed>80</walkspeed>
+    </monster>
+    <monster id="03">
+      <life>40</life>
+      <walkspeed>100</walkspeed>
+    </monster>
+    <monster id="04">
+      <life>600</life>
+      <walkspeed>120</walkspeed>
+    </monster>
+    <monster id="05">
+      <life>40</life>
+      <walkspeed>140</walkspeed>
+    </monster>
+    <monster id="06">
+      <life>600</life>
+      <walkspeed>120</walkspeed>
+    </monster>
+    <monster id="07">
+      <life>40</life>
+      <walkspeed>140</walkspeed>
+    </monster>
+    <monster id="08">
+      <life>600</life>
+      <walkspeed>90</walkspeed>
+    </monster>
+    <monster id="09">
+      <life>40</life>
+      <walkspeed>110</walkspeed>
+    </monster>
+    <monster id="10">
+      <life>600</life>
+      <walkspeed>90</walkspeed>
+    </monster>
+    <monster id="11">
+      <life>40</life>
+      <walkspeed>110</walkspeed>
+    </monster>
+    <monster id="12">
+      <life>600</life>
+      <walkspeed>90</walkspeed>
+    </monster>
+    <monster id="13">
+      <life>40</life>
+      <walkspeed>110</walkspeed>
+    </monster>
+  </monsterlist>
+  
+  <towerlist>
+    <tower id="01">
+      <attack type="0" radius="200">
+        <cd>
+          <level id="0">0.75</level>
+          <level id="1">0.63</level>
+          <level id="2">0.51</level>
+        </cd>
+        <value>
+          <level id="0">20</level>
+          <level id="1">30</level>
+          <level id="2">40</level>
+        </value>
+      </attack>
+      <levelup>
+        <level id="0">100</level>
+        <level id="1">180</level>
+        <level id="2">260</level>
+      </levelup>
+      <destroy>
+        <level id="0">80</level>
+        <level id="1">224</level>
+        <level id="2">432</level>
+      </destroy>
+      <effect type="0">
+      </effect>
+    </tower>
+    <tower id="02">
+      <attack type="0" radius="200">
+        <cd>
+          <level id="0">0.7</level>
+          <level id="1">0.64</level>
+          <level id="2">0.57</level>
+        </cd>
+        <value>
+          <level id="0">10</level>
+          <level id="1">20</level>
+          <level id="2">30</level>
+        </value>
+      </attack>
+      <levelup>
+        <level id="0">120</level>
+        <level id="1">220</level>
+        <level id="2">260</level>
+      </levelup>
+      <destroy>
+        <level id="0">96</level>
+        <level id="1">272</level>
+        <level id="2">480</level>
+      </destroy>
+      <effect type="1">
+        <value>
+          <level id="0">20</level>
+          <level id="1">30</level>
+          <level id="2">40</level>
+        </value>
+      </effect>
+    </tower>
+    <tower id="03">
+      <attack type="0" radius="200">
+        <cd>
+          <level id="0">0.8</level>
+          <level id="1">0.7</level>
+          <level id="2">0.6</level>
+        </cd>
+        <value>
+          <level id="0">30</level>
+          <level id="1">50</level>
+          <level id="2">70</level>
+        </value>
+      </attack>
+      <levelup>
+        <level id="0">160</level>
+        <level id="1">220</level>
+        <level id="2">260</level>
+      </levelup>
+      <destroy>
+        <level id="0">128</level>
+        <level id="1">304</level>
+        <level id="2">512</level>
+      </destroy>
+      <effect type="0">
+      </effect>
+    </tower>
+    <tower id="04">
+      <attack type="0" radius="200">
+        <cd>
+          <level id="0">0.8</level>
+          <level id="1">0.7</level>
+          <level id="2">0.6</level>
+        </cd>
+        <value>
+          <level id="0">30</level>
+          <level id="1">50</level>
+          <level id="2">70</level>
+        </value>
+      </attack>
+      <levelup>
+        <level id="0">160</level>
+        <level id="1">220</level>
+        <level id="2">260</level>
+      </levelup>
+      <destroy>
+        <level id="0">128</level>
+        <level id="1">304</level>
+        <level id="2">512</level>
+      </destroy>
+      <effect type="0">
+      </effect>
+    </tower>
+    <tower id="05">
+      <attack type="0" radius="200">
+        <cd>
+          <level id="0">0.8</level>
+          <level id="1">0.7</level>
+          <level id="2">0.6</level>
+        </cd>
+        <value>
+          <level id="0">30</level>
+          <level id="1">50</level>
+          <level id="2">70</level>
+        </value>
+      </attack>
+      <levelup>
+        <level id="0">160</level>
+        <level id="1">320</level>
+        <level id="2">480</level>
+      </levelup>
+      <destroy>
+        <level id="0">128</level>
+        <level id="1">384</level>
+        <level id="2">768</level>
+      </destroy>
+      <effect type="0">
+      </effect>
+    </tower>
+  </towerlist>
+
+  <stagelist>
+    <stage id="01">
+      <levelnum>9</levelnum>
+      <levellist>
+        <level id="01" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+          </towerlist>
+          <wavelist>
+            <wave id="01">
+              <monster id="11" num="10"/>
+            </wave>
+            <wave id="02">
+              <monster id="11" num="5"/>
+              <monster id="13" num="5"/>
+            </wave>
+            <wave id="03">
+              <monster id="11" num="4"/>
+              <monster id="13" num="6"/>
+            </wave>
+            <wave id="04">
+              <monster id="11" num="3"/>
+              <monster id="13" num="7"/>
+            </wave>
+            <wave id="05">
+              <monster id="13" num="8"/>
+              <monster id="11" num="2"/>
+            </wave>
+            <wave id="06">
+              <monster id="13" num="8"/>
+              <monster id="11" num="2"/>
+            </wave>
+            <wave id="07">
+              <monster id="11" num="8"/>
+              <monster id="05" num="2"/>
+            </wave>
+            <wave id="08">
+              <monster id="13" num="6"/>
+              <monster id="07" num="4"/>
+            </wave>
+            <wave id="09">
+              <monster id="05" num="5"/>
+              <monster id="09" num="5"/>
+            </wave>
+            <wave id="10">
+              <monster id="13" num="6"/>
+              <monster id="05" num="4"/>
+            </wave>
+            <wave id="11">
+              <monster id="03" num="8"/>
+              <monster id="07" num="2"/>
+            </wave>
+            <wave id="12">
+              <monster id="13" num="4"/>
+              <monster id="09" num="6"/>
+            </wave>
+            <wave id="13">
+              <monster id="05" num="2"/>
+              <monster id="07" num="8"/>
+            </wave>
+            <wave id="14">
+              <monster id="05" num="4"/>
+              <monster id="07" num="6"/>
+            </wave>
+            <wave id="15">
+              <monster id="08" num="3"/>
+            </wave>
+          </wavelist>
+          <improvelife>
+            <wave id="01" life="20" />
+            <wave id="02" life="50" />
+            <wave id="03" life="55" />
+            <wave id="04" life="55" />
+            <wave id="05" life="55" />
+            <wave id="06" life="60" />
+            <wave id="07" life="70" />
+            <wave id="08" life="80" />
+            <wave id="09" life="90" />
+            <wave id="10" life="95" />
+            <wave id="11" life="100" />
+            <wave id="12" life="105" />
+            <wave id="13" life="110" />
+            <wave id="14" life="115" />
+            <wave id="15" life="120" />
+          </improvelife>
+      </level>
+        <level id="02" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="03" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="04" wavenum="20" color="1">
+          <towerlist>
+            <tower id="02" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="05" wavenum="20" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="06" wavenum="25" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="07" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="08" wavenum="25" color="0">
+          <towerlist>
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="09" wavenum="20" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+      </levellist>
+    </stage>
+    <stage id="02">
+      <levelnum>9</levelnum>
+      <levellist>
+        <level id="01" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+          </towerlist>
+        </level>
+        <level id="02" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="03" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="04" wavenum="20" color="1">
+          <towerlist>
+            <tower id="02" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="05" wavenum="20" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="06" wavenum="25" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="07" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="08" wavenum="25" color="0">
+          <towerlist>
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="09" wavenum="20" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+      </levellist>
+    </stage>
+    <stage id="03">
+      <levelnum>9</levelnum>
+      <levellist>
+        <level id="01" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+          </towerlist>
+        </level>
+        <level id="02" wavenum="15" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="03" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="04" wavenum="20" color="1">
+          <towerlist>
+            <tower id="02" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="05" wavenum="20" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="04" />
+          </towerlist>
+        </level>
+        <level id="06" wavenum="25" color="0">
+          <towerlist>
+            <tower id="02" />
+            <tower id="03" />
+          </towerlist>
+        </level>
+        <level id="07" wavenum="20" color="1">
+          <towerlist>
+            <tower id="01" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="08" wavenum="25" color="0">
+          <towerlist>
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+        <level id="09" wavenum="20" color="0">
+          <towerlist>
+            <tower id="01" />
+            <tower id="02" />
+            <tower id="04" />
+            <tower id="03" />
+            <tower id="05" />
+          </towerlist>
+        </level>
+      </levellist>
+    </stage>
+  </stagelist>
+</root>

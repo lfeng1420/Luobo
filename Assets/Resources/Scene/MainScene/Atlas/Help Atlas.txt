@@ -1,0 +1,172 @@
+{"frames": {
+
+"bottom.png":
+{
+	"frame": {"x":2,"y":644,"w":960,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":70},
+	"sourceSize": {"w":960,"h":70}
+},
+"help_bg.png":
+{
+	"frame": {"x":2,"y":2,"w":960,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":640},
+	"sourceSize": {"w":960,"h":640}
+},
+"help_home_normal.png":
+{
+	"frame": {"x":1926,"y":124,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"help_home_pressed.png":
+{
+	"frame": {"x":1926,"y":2,"w":120,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":120},
+	"sourceSize": {"w":120,"h":120}
+},
+"help_monster.png":
+{
+	"frame": {"x":964,"y":534,"w":960,"h":530},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":530},
+	"sourceSize": {"w":960,"h":530}
+},
+"help_monster_CN.png":
+{
+	"frame": {"x":964,"y":2,"w":960,"h":530},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":530},
+	"sourceSize": {"w":960,"h":530}
+},
+"monster_normal_CN.png":
+{
+	"frame": {"x":2,"y":1828,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+},
+"monster_selected_CN.png":
+{
+	"frame": {"x":1706,"y":1394,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+},
+"tips_1.png":
+{
+	"frame": {"x":854,"y":1418,"w":850,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":350},
+	"sourceSize": {"w":850,"h":350}
+},
+"tips_2.png":
+{
+	"frame": {"x":2,"y":1068,"w":850,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":350},
+	"sourceSize": {"w":850,"h":350}
+},
+"tips_3.png":
+{
+	"frame": {"x":854,"y":1066,"w":850,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":350},
+	"sourceSize": {"w":850,"h":350}
+},
+"tips_4.png":
+{
+	"frame": {"x":2,"y":716,"w":850,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":350},
+	"sourceSize": {"w":850,"h":350}
+},
+"tips_normal_CN.png":
+{
+	"frame": {"x":1706,"y":1312,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+},
+"tips_selected_CN.png":
+{
+	"frame": {"x":1706,"y":1230,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+},
+"tips_text_1_CN.png":
+{
+	"frame": {"x":2,"y":1726,"w":850,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":100},
+	"sourceSize": {"w":850,"h":100}
+},
+"tips_text_2_CN.png":
+{
+	"frame": {"x":2,"y":1624,"w":850,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":100},
+	"sourceSize": {"w":850,"h":100}
+},
+"tips_text_3_CN.png":
+{
+	"frame": {"x":2,"y":1522,"w":850,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":100},
+	"sourceSize": {"w":850,"h":100}
+},
+"tips_text_4_CN.png":
+{
+	"frame": {"x":2,"y":1420,"w":850,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":100},
+	"sourceSize": {"w":850,"h":100}
+},
+"tower_normal_CN.png":
+{
+	"frame": {"x":1706,"y":1148,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+},
+"tower_selected_CN.png":
+{
+	"frame": {"x":1706,"y":1066,"w":170,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":80},
+	"sourceSize": {"w":170,"h":80}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Help Atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0360597697fb79a4a38f9cd2d5631731$"
+}
+}

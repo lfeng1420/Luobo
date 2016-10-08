@@ -1,0 +1,212 @@
+{"frames": {
+
+"ss_cloud.png":
+{
+	"frame": {"x":2,"y":2,"w":960,"h":640},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":640},
+	"sourceSize": {"w":960,"h":640}
+},
+"ss_map01.png":
+{
+	"frame": {"x":520,"y":1370,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map02.png":
+{
+	"frame": {"x":520,"y":1028,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map03.png":
+{
+	"frame": {"x":1038,"y":686,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map04.png":
+{
+	"frame": {"x":520,"y":686,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map05.png":
+{
+	"frame": {"x":2,"y":1670,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map06.png":
+{
+	"frame": {"x":2,"y":1328,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map07.png":
+{
+	"frame": {"x":2,"y":986,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map08.png":
+{
+	"frame": {"x":2,"y":644,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map09.png":
+{
+	"frame": {"x":1482,"y":344,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map10.png":
+{
+	"frame": {"x":964,"y":344,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map11.png":
+{
+	"frame": {"x":1482,"y":2,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_map12.png":
+{
+	"frame": {"x":964,"y":2,"w":516,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":340},
+	"sourceSize": {"w":516,"h":340}
+},
+"ss_towers_01.png":
+{
+	"frame": {"x":1038,"y":1244,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_02.png":
+{
+	"frame": {"x":1038,"y":1172,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_03.png":
+{
+	"frame": {"x":1038,"y":1100,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_04.png":
+{
+	"frame": {"x":1038,"y":1028,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_05.png":
+{
+	"frame": {"x":1037,"y":1928,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_06.png":
+{
+	"frame": {"x":1037,"y":1856,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_07.png":
+{
+	"frame": {"x":1037,"y":1784,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_08.png":
+{
+	"frame": {"x":1037,"y":1712,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_09.png":
+{
+	"frame": {"x":520,"y":1928,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_10.png":
+{
+	"frame": {"x":520,"y":1856,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_11.png":
+{
+	"frame": {"x":520,"y":1784,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+},
+"ss_towers_12.png":
+{
+	"frame": {"x":520,"y":1712,"w":515,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":70},
+	"sourceSize": {"w":515,"h":70}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Stage1 Atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:db3fe1c234cc561b79377701d3bd58d9$"
+}
+}

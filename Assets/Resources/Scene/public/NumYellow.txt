@@ -1,0 +1,108 @@
+{"frames": {
+
+"numyellow-hd_01.png":
+{
+	"frame": {"x":2,"y":116,"w":10,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":27,"w":10,"h":6},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_02.png":
+{
+	"frame": {"x":2,"y":2,"w":22,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":22,"h":28},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_03.png":
+{
+	"frame": {"x":50,"y":2,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":7,"w":22,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_04.png":
+{
+	"frame": {"x":26,"y":86,"w":14,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":14,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_05.png":
+{
+	"frame": {"x":26,"y":2,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":22,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_06.png":
+{
+	"frame": {"x":26,"y":30,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":20,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_07.png":
+{
+	"frame": {"x":2,"y":88,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":7,"w":22,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_08.png":
+{
+	"frame": {"x":26,"y":58,"w":18,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":18,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_09.png":
+{
+	"frame": {"x":96,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":20,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_10.png":
+{
+	"frame": {"x":2,"y":60,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":8,"w":22,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_11.png":
+{
+	"frame": {"x":2,"y":32,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":22,"h":26},
+	"sourceSize": {"w":44,"h":40}
+},
+"numyellow-hd_12.png":
+{
+	"frame": {"x":74,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":7,"w":20,"h":26},
+	"sourceSize": {"w":44,"h":40}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "NumYellow.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3fe1cea0a3fbb73c867d601f257540f8$"
+}
+}

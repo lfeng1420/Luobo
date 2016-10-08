@@ -1,0 +1,76 @@
+{"frames": {
+
+"BG1-hd.png":
+{
+	"frame": {"x":964,"y":978,"w":960,"h":478},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":960,"h":478},
+	"sourceSize": {"w":960,"h":482}
+},
+"BG2-hd.png":
+{
+	"frame": {"x":964,"y":490,"w":960,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":960,"h":486},
+	"sourceSize": {"w":960,"h":488}
+},
+"BG3-hd.png":
+{
+	"frame": {"x":2,"y":564,"w":960,"h":484},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":960,"h":484},
+	"sourceSize": {"w":960,"h":486}
+},
+"BG4-hd.png":
+{
+	"frame": {"x":886,"y":1538,"w":884,"h":484},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":884,"h":484},
+	"sourceSize": {"w":884,"h":486}
+},
+"BG5-hd.png":
+{
+	"frame": {"x":964,"y":2,"w":960,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":960,"h":486},
+	"sourceSize": {"w":960,"h":488}
+},
+"BG6-hd.png":
+{
+	"frame": {"x":2,"y":1050,"w":930,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":930,"h":486},
+	"sourceSize": {"w":930,"h":488}
+},
+"BG7-hd.png":
+{
+	"frame": {"x":2,"y":2,"w":960,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":560},
+	"sourceSize": {"w":960,"h":560}
+},
+"BG8-hd.png":
+{
+	"frame": {"x":2,"y":1538,"w":882,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":882,"h":486},
+	"sourceSize": {"w":884,"h":488}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Theme1Map Atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ec8da8de2ed352ea378e8cb51601b0d$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": {
+
+"numwhite-hd_01.png":
+{
+	"frame": {"x":2,"y":118,"w":12,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":26,"w":12,"h":8},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_02.png":
+{
+	"frame": {"x":2,"y":2,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_03.png":
+{
+	"frame": {"x":24,"y":86,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_04.png":
+{
+	"frame": {"x":24,"y":58,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_05.png":
+{
+	"frame": {"x":24,"y":30,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_06.png":
+{
+	"frame": {"x":90,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_07.png":
+{
+	"frame": {"x":68,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_08.png":
+{
+	"frame": {"x":46,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_09.png":
+{
+	"frame": {"x":24,"y":2,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_10.png":
+{
+	"frame": {"x":2,"y":90,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_11.png":
+{
+	"frame": {"x":2,"y":62,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+},
+"numwhite-hd_12.png":
+{
+	"frame": {"x":2,"y":34,"w":20,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":20,"h":26},
+	"sourceSize": {"w":20,"h":40}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "NumWhite.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4a1646682ae313dfbd5d2161ea98cae6$"
+}
+}

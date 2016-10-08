@@ -1,0 +1,124 @@
+{"frames": {
+
+"continue_normal_CN.png":
+{
+	"frame": {"x":698,"y":224,"w":220,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":220,"h":72},
+	"sourceSize": {"w":220,"h":80}
+},
+"continue_pressed_CN.png":
+{
+	"frame": {"x":698,"y":150,"w":220,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":220,"h":72},
+	"sourceSize": {"w":220,"h":80}
+},
+"gainhonor_1.png":
+{
+	"frame": {"x":238,"y":830,"w":112,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":10,"w":112,"h":158},
+	"sourceSize": {"w":180,"h":180}
+},
+"gainhonor_2.png":
+{
+	"frame": {"x":2,"y":830,"w":116,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":8,"w":116,"h":168},
+	"sourceSize": {"w":180,"h":180}
+},
+"gainhonor_3.png":
+{
+	"frame": {"x":120,"y":830,"w":116,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":116,"h":158},
+	"sourceSize": {"w":180,"h":180}
+},
+"gainhonor_4.png":
+{
+	"frame": {"x":352,"y":830,"w":120,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":120,"h":154},
+	"sourceSize": {"w":120,"h":180}
+},
+"lose_bg.png":
+{
+	"frame": {"x":2,"y":2,"w":694,"h":450},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":10,"w":694,"h":450},
+	"sourceSize": {"w":750,"h":480}
+},
+"lose_bg_CN.png":
+{
+	"frame": {"x":474,"y":830,"w":412,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":197,"w":412,"h":86},
+	"sourceSize": {"w":750,"h":480}
+},
+"retry_normal_CN.png":
+{
+	"frame": {"x":698,"y":370,"w":218,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":218,"h":70},
+	"sourceSize": {"w":220,"h":80}
+},
+"retry_pressed_CN.png":
+{
+	"frame": {"x":698,"y":76,"w":220,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":220,"h":72},
+	"sourceSize": {"w":220,"h":80}
+},
+"select_normal_CN.png":
+{
+	"frame": {"x":698,"y":2,"w":220,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":220,"h":72},
+	"sourceSize": {"w":220,"h":80}
+},
+"select_pressed_CN.png":
+{
+	"frame": {"x":698,"y":298,"w":218,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":218,"h":70},
+	"sourceSize": {"w":220,"h":80}
+},
+"win_bg.png":
+{
+	"frame": {"x":2,"y":454,"w":676,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":64,"w":676,"h":374},
+	"sourceSize": {"w":750,"h":480}
+},
+"win_bg_CN.png":
+{
+	"frame": {"x":474,"y":830,"w":412,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":197,"w":412,"h":86},
+	"sourceSize": {"w":750,"h":480}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "GameOver Atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c422b31e4e8e3c28fe7fcd40b80325f6$"
+}
+}
